@@ -1,4 +1,4 @@
-# XOXO Downloader - TikTok Video Downloader
+# TikTok Video Downloader
 
 https://tiktok.xoxod33p.me
 

@@ -28,11 +28,3 @@ npm run dev
 # Build for production
 npm run build
 ```
-
-## Usage
-
-1. Copy a TikTok video URL
-2. Paste it in the input field
-3. Click "Get Video"
-4. Choose your download option (HD, Standard, or Audio)
-
